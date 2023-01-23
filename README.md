@@ -2,9 +2,9 @@
 
 - 🔭 Self-taught developer that's learning everyday! 
 
-- ⚡  Currently working on a e-commerce web application using spring boot!
+- ⚡  Currently working on an e-commerce web application using spring boot
 
-- 🌱 Recently been studying react!
+- 🌱 Recently been studying react
 
 - 💬 Always happy to collaborate on projects!
 
