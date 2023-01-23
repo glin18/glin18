@@ -1,4 +1,4 @@
-### Hey, I'm Gary 
+### Hey, I'm Gary 👋 
 
 - 🔭 Self-taught developer that's learning everyday! 
 
