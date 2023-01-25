@@ -4,7 +4,7 @@
 
 - ⚡  Currently working on an e-commerce web application using spring boot
 
-- 🌱 Recently been studying react
+- 🌱 Recently been studying react and typescript
 
 - 💬 Always happy to collaborate on projects!
 
@@ -24,6 +24,8 @@
        src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
 <img align="left" alt="Python" height="35"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="React" height="35"
+       src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
 <img align="left" alt="React" height="35"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
