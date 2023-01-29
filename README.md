@@ -4,7 +4,7 @@
 
 - ⚡  Currently working on an e-commerce web application using spring boot
 
-- 🌱 Recently been studying react and typescript
+- 🌱 Recently been working with react and learning django
 
 - 💬 Always happy to collaborate on projects!
 
