@@ -2,8 +2,6 @@
 
 - 🔭 Self-taught developer that's learning everyday! 
 
-- ⚡  Currently working on an e-commerce web application using spring boot
-
 - 🌱 Recently been working with react and django
 
 - 💬 Always happy to collaborate on projects!
