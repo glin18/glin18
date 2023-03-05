@@ -4,6 +4,8 @@
 
 - 🌱 Recently been working with react and django
 
+- 🌱 Been learning web3 development with solidity/hardhat
+
 - 💬 Always happy to collaborate on projects!
 
 - 🤣 Try playing chess against me
