@@ -2,7 +2,7 @@
 
 - 🔭 Self-taught developer that's learning everyday! 
 
-- 🌱 I use React and Django at work
+- 🌱 I use react and django at work
 
 - 🌱 Been learning web3 development with solidity/hardhat
 
