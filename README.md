@@ -2,11 +2,11 @@
 
 - 🔭 Self-taught developer that's learning everyday! 
 
-- 🌱 Recently been working with React and Django!
+- 🌱 I use React and Django at work
 
 - 🌱 Been learning web3 development with solidity/hardhat
 
-- 🌱 Been learning mobile app development!
+- 🌱 Been learning mobile app development
 
 - 💬 Always happy to collaborate on projects!
 
