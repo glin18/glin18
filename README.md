@@ -1,6 +1,6 @@
 ### Hey, I'm Gary 👋 
 
-- 🔭 Self-taught developer that's learning everyday! 
+- 🔭 Software developer that's learning everyday! 
 
 - 🌱 I use react and django at work
 
