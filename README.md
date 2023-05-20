@@ -2,11 +2,7 @@
 
 - 🔭 Software developer that's learning everyday! 
 
-- 🌱 I use react and django at work
-
-- 🌱 Been learning web3 development with solidity/hardhat
-
-- 🌱 Been learning mobile app development
+- 🌱 web, web3, mobile development
 
 - 💬 Always happy to collaborate on projects!
 
