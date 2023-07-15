@@ -4,6 +4,8 @@
 
 - 🌱 web, web3, mobile development
 
+- 🌱 currently working as a blockchain developer
+
 - 💬 always happy to collaborate on projects!
 
 <img align="left" alt="JavaScript" height="35"
