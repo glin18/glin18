@@ -2,9 +2,7 @@
 
 - 🔭 software developer that's learning everyday! 
 
-- 🌱 web, web3, mobile development
-
-- 🌱 currently working as a blockchain developer
+- 🌱 full stack development
 
 - 💬 always happy to collaborate on projects!
 
